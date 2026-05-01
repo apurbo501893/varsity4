@@ -9,3 +9,10 @@
     background-color:aqua;
 
 }
+.box1{
+    border: 2px solid pink;
+    display: inline-block;
+    padding: 45px;
+    margin: 34px;
+    width: 30px;
+}
