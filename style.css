@@ -16,3 +16,44 @@
     margin: 34px;
     width: 30px;
 }
+.box3{
+    border: 2px solid orange;
+    padding:34px;
+    box-shadow: 5px 5px 5px 5px orange;  
+
+}
+nav ul{
+    display: flex;
+    padding: 25px;
+    
+}
+nav ul li{
+    list-style-position: inside;
+    background-color: greenyellow;
+    border: 2px solid purple;
+    list-style-type: "👽";
+    
+}
+.box5{
+    width: 20vw;
+    height: 40vh;
+    border: 2px solid orange;
+    overflow: auto;
+    text-overflow: ellipsis;
+}
+.id{
+    height: 133px;
+    width: 80vw;
+    padding: 3px;
+    margin: 3px;
+    border: 2px solid black;
+}
+.a1{
+    border: 2px solid purple;
+    
+}
+.a2{
+    display: flex;
+    padding: 4px;
+    margin-left: 4px;
+}
